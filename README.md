@@ -8,4 +8,5 @@ I will write here my daily diary
 | Paragraph | Text |
 |-----|---------|
 
-H~2
+Here the table ends
+$H_2$
