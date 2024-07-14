@@ -17,4 +17,4 @@ $r=\sqrt{x^2+y^2}$
 
 Following is link of my website [Physics Hut](https://www.physicshut.com)
 
-![de:hub.de-Projekt](rs.jpg)
+![Randhir Singh](rs.jpg)
