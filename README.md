@@ -9,7 +9,7 @@ I will write here my daily diary
 
 Here the table ends
 
-Chemical formula of water is \(H_{2}O\)
+Chemical formula of water is \($H_{2}O$\)
 
 
 $r=\sqrt{x^2+y^2}$
