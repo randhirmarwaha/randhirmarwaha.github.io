@@ -10,4 +10,4 @@ I will write here my daily diary
 
 Here the table ends
 $H_2$
-$$r=\sqrt{x^2+y^2}$$
+$r=\sqrt{x^2+y^2}$
